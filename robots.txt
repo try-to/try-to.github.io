@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Sitemap: https://blog.tryto.cn/sitemap.xml
+Sitemap: https://blog.tryto.cn/baidusitemap.xml
